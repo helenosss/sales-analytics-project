@@ -1,4 +1,3 @@
-# sales-analytics-project
 # Sales Analytics Project
 
 This project analyzes multi-year sales data for a global retail company operating both online and offline.  
